@@ -21,8 +21,9 @@ This site uses simple HTML and CSS. The site is also styled with **Bootstrap**. 
 - Welcome page with audio, automated typing, and redirect to home page
 - Home page with multiple links to each page.
   - Navbar to navigate to other pages
-Sliding, horizontal timeline of events
-Pictures with changing opacity when hovered over (clicked on when using mobile)
+- Sliding, horizontal timeline of events
+- Pictures with changing opacity when hovered over (clicked on when using mobile)
+- Color palletes and font collections to match the unique style of each game
 - Quiz page for viewers to test their knowledge
     - Form for viewers to input their answers or check the correct box
     - Submit button so viewers can see how they scored on the quiz
