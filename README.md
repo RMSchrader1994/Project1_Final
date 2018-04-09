@@ -64,3 +64,5 @@ All game info and names created by Jane Jensen and games all produced by Sierra 
     - https://bootsnipp.com/snippets/a3BjR
 
 
+## Git Commits
+Previously I did have a full line of commits for this project, but I ran into a problem of my master branch in Github so I had to clone my project in Cloud9. My full history of commits can be seen [HERE](https://github.com/RMSchrader1994/project1)
