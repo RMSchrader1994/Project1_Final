@@ -67,3 +67,6 @@ All game info and names created by Jane Jensen and games all produced by Sierra 
 
 ## Git Commits
 Previously I did have a full line of commits for this project, but I ran into a problem of my master branch in Github so I had to clone my project in Cloud9. My full history of commits can be seen [HERE](https://github.com/RMSchrader1994/project1)
+
+## Planning
+All wireframes and planning documents can be found in the stream1Project folder here in the repository. The comments page was replaced by the quiz page.
